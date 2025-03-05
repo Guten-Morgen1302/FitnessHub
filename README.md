@@ -13,7 +13,7 @@ Welcome to **Fitness Hub**! The ultimate destination to help you improve your fi
 
 Clone the repository and install the necessary dependencies:
 
-\`\`\`bash
+\`\`\`
 git clone https://github.com/Guten-Morgen1302/fitness-hub.git
 cd fitness-hub
 npm install
@@ -23,13 +23,13 @@ npm install
 
 1. Start the development server:
 
-\`\`\`bash
+\`\`\`
 npm run dev
 \`\`\`
 
 2. Open the app in your browser:
 
-\`\`\`bash
+\`\`\`
 http://localhost:3000
 \`\`\`
 
