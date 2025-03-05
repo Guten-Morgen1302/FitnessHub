@@ -35,13 +35,9 @@ Ensure you have the following installed:
    cd fitness-hub-pro
 Install dependencies:
 
-bash
-Copy
 npm install
 Run the development server:
 
-bash
-Copy
 npm run dev
 Visit http://localhost:3000 in your browser to view the app.
 
