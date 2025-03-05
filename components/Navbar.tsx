@@ -159,9 +159,9 @@ export default function Navbar({
                 <div className="h-10 w-10 rounded-full bg-blue-500 flex items-center justify-center text-white">AJ</div>
               </div>
               <div className="ml-3">
-                <div className={`text-base font-medium ${darkMode ? "text-white" : "text-gray-800"}`}>Alex Johnson</div>
+                <div className={`text-base font-medium ${darkMode ? "text-white" : "text-gray-800"}`}>Harsh Patil</div>
                 <div className={`text-sm font-medium ${darkMode ? "text-gray-400" : "text-gray-500"}`}>
-                  alex@example.com
+                  harshabhaypatil@gmail.com
                 </div>
               </div>
               <button

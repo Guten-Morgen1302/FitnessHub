@@ -215,7 +215,7 @@ export default function HomePage() {
                     <div className="flex-1">
                       <p className="text-sm font-medium text-blue-400">Strength Building</p>
                       <div className="block mt-2">
-                        <p className="text-xl font-semibold text-white">Alex J.</p>
+                        <p className="text-xl font-semibold text-white">Harsh P.</p>
                         <p className="mt-3 text-base text-gray-300">
                           "The community challenges keep me motivated. I've gained significant muscle mass and improved
                           my overall fitness level."
