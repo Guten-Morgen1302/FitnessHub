@@ -30,7 +30,7 @@ Ensure you have the following installed:
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/Guten-Morgen1302/fitness-hub-pro.git
    cd fitness-hub-pro
 Install dependencies:
